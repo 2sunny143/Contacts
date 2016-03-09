@@ -1,0 +1,11 @@
+git ?
+
+Three stages
+1)Working on a directory
+2)Staging
+3)Repository
+
+
+_______________________
+In Bash
+we are create a directory.
